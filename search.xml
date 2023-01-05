@@ -16,7 +16,8 @@
   <entry>
     <title>Markdown基础语法</title>
     <url>/2023/01/04/Markdown%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/</url>
-    <content><![CDATA[<h1 id="Mackdown基础语法"><a href="#Mackdown基础语法" class="headerlink" title="Mackdown基础语法"></a>Mackdown基础语法</h1><p>[TOC]</p>
+    <content><![CDATA[<h1 id="Mackdown基础语法"><a href="#Mackdown基础语法" class="headerlink" title="Mackdown基础语法"></a>Mackdown基础语法</h1><span id="more"></span>
+<p>[TOC]</p>
 <h2 id="1-字体"><a href="#1-字体" class="headerlink" title="1. 字体"></a>1. 字体</h2><p>格式：</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">*斜体* 或 _斜体_</span><br><span class="line">**粗体**</span><br><span class="line">***加粗斜体***</span><br><span class="line">~~删除线~~</span><br><span class="line">&lt;u&gt;下划线&lt;/u&gt;</span><br><span class="line">==高亮文字==</span><br></pre></td></tr></table></figure>
 <p>显示效果：<br><em>这是一段斜体</em><br><strong>这是一段粗体</strong><br><em><strong>这是一段加粗斜体</strong></em><br><del>这是一段删除线</del><br><u>这是一段下划线</u><br>&#x3D;&#x3D;这是一段高亮文字&#x3D;&#x3D;</p>
@@ -230,10 +231,11 @@
 </ul>
 ]]></content>
       <categories>
-        <category>随笔</category>
+        <category>Macrkdown</category>
       </categories>
       <tags>
         <tag>Macrkdown</tag>
+        <tag>随笔</tag>
       </tags>
   </entry>
 </search>
